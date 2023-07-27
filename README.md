@@ -1,2 +1,2 @@
 # void-comments
-Provide commenting function for my website
+Provide a commenting functionality for my website
